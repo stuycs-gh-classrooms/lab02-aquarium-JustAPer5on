@@ -5,7 +5,7 @@ class Bird extends Animal {
   }
   
   void display() {
-    fill(0, 0, 255);
+    fill(255, 0, 255);
     rect(ax, ay, aw, ah);
   }
   

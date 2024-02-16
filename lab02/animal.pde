@@ -19,7 +19,7 @@ class Animal {
   }
   
   void display() {
-    fill(0, 255, 0);
+    fill(0, 255, 255);
     rect(ax, ay, aw, ah);
   }
   
